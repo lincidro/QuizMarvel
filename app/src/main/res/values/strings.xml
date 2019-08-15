@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Quiz</string>
+    <string name="txt_true">Verdadero</string>
+    <string name="txt_false">Falso</string>
+    <string name="txt_next">Siguiente</string>
+    <string name="txt_restart">Reiniciar</string>
+    <string name="question_1">The Flash se llama Bartholomew</string>
+    <string name="question_2">Eobard Thawne es Vibe</string>
+    <string name="question_3">Barry Allen es padre de Jesse Quick</string>
+    <string name="question_4">3xRed para manqueando</string>
+    <string name="txt_correct_answer">Respuesta Correcta!</string>
+    <string name="txt_incorrect_answer">No... ¡Incorrecto!</string>
+</resources>
